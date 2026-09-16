@@ -1,0 +1,18 @@
+h1 {
+    color: #32526E;
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+h2 {
+    color:RGB(39,91,245);
+    text-align: center;
+    text-decoration: overline;
+}
+
+h3 {
+    color:orange;
+    text-align: right;
+    text-decoration: line-through;
+}
