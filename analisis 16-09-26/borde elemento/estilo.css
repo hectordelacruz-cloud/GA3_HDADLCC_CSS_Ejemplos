@@ -1,0 +1,103 @@
+#pregunta1 {
+    background-color: #ffff00;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+}
+
+#respueta1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 30, 0);
+}
+
+#pregunta2 {
+    background-color: #fff000;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: yellow;
+}
+
+#respueta2{
+    border-width: 3px;
+    border-style: dotted;
+    border-color: rgb(245, 80, 40);
+}
+
+#pregunta3 {
+    background-color: #ff0000;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: green;
+}
+
+#respueta3{
+    border-width: 1px;
+    border-style: dashed;
+    border-color: rgb(25, 80, 40);
+}
+
+#pregunta4 {
+    background-color: #f00000;
+    border-width: 1px;
+    border-style: double;
+    border-color: darkgoldenrod;
+}
+
+#respueta4{
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(25, 100, 40);
+}
+
+#pregunta5 {
+    background-color: #0ff000;
+    border-width: 3px;
+    border-style: groove;
+    border-color: darkmagenta;
+}
+
+#respueta5{
+    border-width: 2px;
+    border-style: groove;
+    border-color: rgb(100, 80, 40);
+}
+
+#pregunta6 {
+    background-color: #0fff00;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: darkorange;
+}
+
+#respueta6{
+    border-width: 1px;
+    border-style: ridge;
+    border-color: rgb(100, 99, 50);
+}
+
+#pregunta7 {
+    background-color: #0ffff0;
+    border-width: 1px;
+    border-style: inset;
+    border-color: darkgray;
+}
+
+#respueta7{
+    border-width: 1px;
+    border-style: inset;
+    border-color: rgb(250, 99, 10);
+}
+
+#pregunta8 {
+    background-color: #0fffff;
+    border-width: 3px;
+    border-style: outset;
+    border-color: darkolivegreen;
+}
+
+#respueta8{
+    border-width: 3px;
+    border-style: outset;
+    border-color: rgb(150, 59, 100);
+}

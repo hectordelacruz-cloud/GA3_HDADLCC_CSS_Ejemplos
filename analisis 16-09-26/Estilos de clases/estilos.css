@@ -1,0 +1,9 @@
+body {
+    background-color: plum;
+}
+
+.resaltado {
+    color: blue;
+    background-color: yellow;
+    font-style: italic;
+}

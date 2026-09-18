@@ -1,0 +1,22 @@
+/*Comentario en CSS*/
+h1{
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    text-transform: capitalize;
+}
+
+p {
+    text-indent: 20px;
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+h3 {
+    text-transform: lowercase;
+}
+
+h4 {
+    text-transform: uppercase;
+}

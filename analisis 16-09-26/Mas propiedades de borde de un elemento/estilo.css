@@ -1,0 +1,66 @@
+.titulo {
+    /* Color de fondo*/
+    background-color: #ffffcc;
+
+    /* Centrar el texto*/
+    text-align: center;
+
+    /* Tipografia del texto*/
+    font-family: verdana;
+
+    /* Tamaño del texto*/
+    font-size: 40px;
+
+    /* ----------------- */
+    /* Estilo de los bordes*/
+    /* ----------------- */ 
+
+    /* Borde grosor superior*/
+    border-top-width: 1px;
+
+    /* borde grosor derecho*/
+    border-right-width: 3px;
+
+    /* borde grosor inferior*/
+    border-bottom-width: 3px;
+
+    /* borde grosor izquierdo*/
+    border-left-width: 1px;
+
+
+
+    /* ----------------- */
+    /* Estilo de los bordes*/
+    /* ----------------- */
+
+    /* borde de estilo superior*/
+    border-top-style: dotted;
+
+    /* borde de estilo derecho*/
+    border-right-style: solid;
+
+    /* borde de estilo inferior*/
+    border-bottom-style: solid;
+
+    /* borde de estilo izquierdo*/
+    border-left-style: dotted;
+
+
+
+    /* ----------------- */
+    /* Color de los bordes*/
+    /* ----------------- */
+
+    /* color de estilo superior*/
+    border-top-color: #2bff00;
+
+    /* color de estilo derecho*/
+    border-right-color: #000000;
+
+    /* color de estilo inferior*/
+    border-bottom-color: #ff0000;
+
+    /* color de estilo izquierdo*/
+    border-left-color: #0105ec;
+}
+
